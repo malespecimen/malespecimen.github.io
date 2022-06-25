@@ -1,0 +1,41 @@
+/* iOS Cordova Tweak */
+.device-cordova.device-ios {
+  height: 100vh;
+}
+
+/* Custom color theme properties */
+:root {
+  --f7-theme-color: #ceaa42;
+  --f7-theme-color-rgb: 206, 170, 66;
+  --f7-theme-color-shade: #b89530;
+  --f7-theme-color-tint: #d6b962;
+   --f7-list-item-border-color: transparent;
+}
+
+/* Your app custom styles here 
+
+:root.md {
+  --f7-font-family : 'Gotham Pro', Roboto, system-ui, Noto, Helvetica, Arial, sans-serif;
+}
+:root.ios {
+  --f7-font-family : 'Gotham Pro', -apple-system, SF Pro Text, SF UI Text, system-ui, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+:root.aurora {
+  --f7-font-family: 'Gotham Pro', -apple-system, system-ui, Helvetica, Arial, sans-serif;
+}*/
+
+
+.swiper-slide img{ width: 100%; }
+
+
+.page-content{
+	background: #000000;
+}
+
+
+
+.font-gotham-pro{
+	font-family: 'Gotham Pro';
+}
+.font-playfair-display-bold{
+ font-family: 'Playfair Display Bold';}
